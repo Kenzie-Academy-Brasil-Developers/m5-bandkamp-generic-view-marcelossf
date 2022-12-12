@@ -1,6 +1,6 @@
 from django.db import models
 
-
+# 1 usuário pode ter Vários albums (1:N - USUÁRIO : ALBUM)
 class Album(models.Model):
     class Meta:
         ordering = ["id"]

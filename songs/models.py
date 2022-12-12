@@ -1,6 +1,6 @@
 from django.db import models
 
-
+# 1 Album pode ter várias Songs (1:N - ALBUM : SONGS)
 class Song(models.Model):
     class Meta:
         ordering = ("id",)
