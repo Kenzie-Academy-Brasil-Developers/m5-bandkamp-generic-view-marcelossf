@@ -1,5 +1,7 @@
 # M5 - BandKamp Generic View
 
+![alt text](DER-BandKamp.png)
+
 ## Instalação dos pacotes de teste
 
 - Verifique se os pacotes `pytest` e/ou `pytest-testdox` estão instalados globalmente em seu sistema:
